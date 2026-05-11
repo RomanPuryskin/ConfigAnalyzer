@@ -52,7 +52,7 @@ go build -o ./cmd/main.go
 make run
 ```
 
-##  Использование
+Использование
 
 [filePath] <flags>
   флаги:
