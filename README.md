@@ -66,3 +66,4 @@ dir [directory] <flags>
 serve <flags> [:port]
   флаги:
     - "http" утилита будет запущенна как http сервер на заданном порту ( вводить в виде :port)
+```
