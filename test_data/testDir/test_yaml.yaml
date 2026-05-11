@@ -1,0 +1,7 @@
+version: 2.2
+storage:
+  digest-algorithm: MD5
+log:
+  output: stdout
+  level: debug
+  

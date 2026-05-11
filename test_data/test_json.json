@@ -1,0 +1,9 @@
+{
+  "storage": {
+    "digest-algorithm": "MD5"
+  },
+  "log": {
+    "output": "stdout",
+    "level": "debug"
+  }
+}
